@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
@@ -191,11 +194,11 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="221" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1582817573329" />
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1582817769044">
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1583159658952">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813/1440.23.1366.745@0.23.1440.813" timestamp="1582649327414" />
-    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1582817769044" />
+    <state x="380" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1583159658952" />
     <state width="600" height="440" key="javadoc.popup" timestamp="1582824639411">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
