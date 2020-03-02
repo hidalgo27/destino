@@ -100,7 +100,7 @@
 {{--    </div>--}}
 
 
-    <footer class="position-relative">
+    <footer class="position-relative mt-5">
         <div class="container">
             <div class="row">
                 <div class="col">

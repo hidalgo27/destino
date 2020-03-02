@@ -260,6 +260,7 @@ header {
   height: 100vh;
   min-height: 25rem;
   width: 100%;
+  overflow: hidden;
   background-image: url("http://gotoperu-mx.s3-us-west-1.amazonaws.com/package/slider/AV704-1_1574181883.jpg");
   background-size: 100%;
 }
@@ -690,6 +691,13 @@ footer .footer-title {
   top: 15px;
   position: absolute;
   left: 0;
+}
+
+.box-fondohome {
+  padding-top: 108px !important;
+  background-image: url(https://backpacktraveler.qodeinteractive.com/wp-content/uploads/2018/08/h1-backround-1.jpg?id=735) !important;
+  background-position: 0 0 !important;
+  background-repeat: no-repeat !important;
 }
 
 /*!

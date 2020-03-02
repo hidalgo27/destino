@@ -1,5 +1,5 @@
 <template>
-    <div class="rgba-white-9 px-3">
+    <div class="rgba-white-9 p-3">
 
             <div class="row">
                 <div class="col">
@@ -54,16 +54,16 @@
                         <div class="col-12">
                             <el-input size="small" placeholder="Nombre Completo" v-model="name" prefix-icon="el-icon-user"></el-input>
                         </div>
-                        <div class="col-12">
+                        <div class="col-12 my-3">
                             <el-input size="small" placeholder="Email" v-model="email" prefix-icon="el-icon-date"></el-input>
                         </div>
                         <div class="col-12">
                             <vue-tel-input v-model="phone"></vue-tel-input>
                         </div>
-                        <div class="col-6">
+                        <div class="col-6 my-3">
                             <el-input size="small" type="number" min="1" placeholder="Duración de viaje en días" v-model="duration" prefix-icon="el-icon-sunny"></el-input>
                         </div>
-                        <div class="col-6">
+                        <div class="col-6 my-3">
                             <el-date-picker
                                 v-model="date"
                                 type="date"
@@ -88,7 +88,7 @@
                                 </el-option>
                             </el-select>
                         </div>
-                        <div class="col">
+                        <div class="col mt-3">
                             <el-input
                                 type="textarea"
                                 autosize

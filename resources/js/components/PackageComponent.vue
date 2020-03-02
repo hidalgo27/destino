@@ -8,7 +8,7 @@
                         <h4 class="font-weight-bold mb-0">Encuentra tu paquete ideal</h4>
                     </div>
                 </div>
-                <div class="row justify-content-center mb-3">
+                <div class="row justify-content-center my-4">
                     <div class="col-8">
                         <div class="row">
                             <div class="col">
@@ -113,7 +113,7 @@
                         </el-card>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row my-4">
                     <div class="col">
                         <el-divider content-position="right">
                             <el-link type="primary" class="text-decoration-none" href="#">Ver más paquetes <i class="el-icon-link el-icon--right"></i> </el-link>
@@ -121,7 +121,36 @@
                     </div>
                 </div>
             </el-tab-pane>
-            <el-tab-pane label="Tekking en Perú" name="second">Tekking en Perú</el-tab-pane>
+            <el-tab-pane label="Tekking en Perú" name="second">
+                <div class="row my-4">
+                    <div class="col text-center">
+                        <h2 class="t-corrido font-weight-bold">Trekking en Perú</h2>
+                    </div>
+                </div>
+                <div class="row mb-5">
+                    <div class="col-4">
+                        <el-card :body-style="{ padding: '0px' }">
+                            <div class="position-relative">
+                                <img src="http://gotoperu-com.s3-us-west-1.amazonaws.com/destinations/1580146287030ballestas-island-and-paracas_1580146290.jpg" class="image w-100">
+                                <div class="position-absolute-bottom p-2 rgba-white-9">
+                                    <span class="time">
+<!--                                        <i class="el-icon-map-location"></i>-->
+<!--                                        Machu Picchu, Cusco, Lima, Puno-->
+                                        <span class="t-corrido font-weight-bold h5 d-block"><span class="text-info">5 days</span> Machu picchu classic</span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div style="padding: 14px;">
+<!--                                <span class="t-corrido py-2 h5 d-block">Machu picchu classic</span>-->
+                                <div class="bottom clearfix">
+                                    <span class="time float-left font-weight-bold"><span class="small font-weight-bold">DESDE</span> <span class="text-d-yellow font-weight-bold"><sup>$</sup>500usd</span></span>
+                                    <el-button type="text" class="button stretched-link">Ver detalle</el-button>
+                                </div>
+                            </div>
+                        </el-card>
+                    </div>
+                </div>
+            </el-tab-pane>
             <el-tab-pane label="Como Reservar" name="third">Como Reservar</el-tab-pane>
         </el-tabs>
     </div>

@@ -16,7 +16,7 @@
                     {{--                        <p class="lead mb-0">With HTML5 Video and Bootstrap 4</p>--}}
                 </div>
             </div>
-            <div class="row h-25 align-items-end">
+            <div class="row h-25 align-items-center">
                 <div class="col">
                     <formhome-component></formhome-component>
                 </div>
@@ -24,120 +24,108 @@
         </div>
     </header>
 
-    <section class="container-fluid bg-light">
+    <section class="bg-light clearfix">
+        <div class="container">
 
-        <div class="row py-3">
-            <div class="col">
-                <!-- Swiper -->
-                <div class="swiper-category overflow-hidden">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+            <div class="row py-3">
+                <div class="col-12">
+                    <!-- Swiper -->
+                    <div class="swiper-category overflow-hidden">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="row no-gutters position-relative">
+                                    <div class="">
+                                        <div class="row align-items-center no-gutters">
+                                            <div class="col-md-3">
+                                                <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+                                            </div>
+                                            <div class="col-md position-static p-2">
+                                                <a href="" class="p-0 m-0 text-decoration-none font-weight-bold t-corrido text-secondary stretched-link">Vivencial</a>
+                                            </div>
                                         </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="row no-gutters position-relative">
+                                    <div class="">
+                                        <div class="row align-items-center no-gutters">
+                                            <div class="col-md-3">
+                                                <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+                                            </div>
+                                            <div class="col-md position-static p-2">
+                                                <a href="" class="p-0 m-0 text-decoration-none font-weight-bold t-corrido text-secondary stretched-link">Vivencial</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="row no-gutters position-relative">
+                                    <div class="">
+                                        <div class="row align-items-center no-gutters">
+                                            <div class="col-md-3">
+                                                <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+                                            </div>
+                                            <div class="col-md position-static p-2">
+                                                <a href="" class="p-0 m-0 text-decoration-none font-weight-bold t-corrido text-secondary stretched-link">Vivencial</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="row no-gutters position-relative">
+                                    <div class="">
+                                        <div class="row align-items-center no-gutters">
+                                            <div class="col-md-3">
+                                                <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+                                            </div>
+                                            <div class="col-md position-static p-2">
+                                                <a href="" class="p-0 m-0 text-decoration-none font-weight-bold t-corrido text-secondary stretched-link">Vivencial</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="row no-gutters position-relative">
+                                    <div class="">
+                                        <div class="row align-items-center no-gutters">
+                                            <div class="col-md-3">
+                                                <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+                                            </div>
+                                            <div class="col-md position-static p-2">
+                                                <a href="" class="p-0 m-0 text-decoration-none font-weight-bold t-corrido text-secondary stretched-link">Vivencial</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="row no-gutters position-relative">
+                                    <div class="">
+                                        <div class="row align-items-center no-gutters">
+                                            <div class="col-md-3">
+                                                <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
+                                            </div>
+                                            <div class="col-md position-static p-2">
+                                                <a href="" class="p-0 m-0 text-decoration-none font-weight-bold t-corrido text-secondary stretched-link">Vivencial</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
-                                        </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
-                                        </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
-                                        </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
-                                        </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
-                                        </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row no-gutters position-relative">
-                                <div class="card shadow-sm rounded-pill">
-                                    <div class="row align-items-center no-gutters">
-                                        <div class="col-md-4">
-                                            <img src="http://admin.mietnia.com/admin/categoria/editar/imagen/foto-2.jpeg" alt="" class="w-100 rounded-circle">
-                                        </div>
-                                        <div class="col-md position-static p-2">
-                                            <a href="" class="p-0 m-0 text-decoration-none font-weight-bold text-secondary stretched-link">Vivencial</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <!-- Add Pagination -->
+    {{--                    <div class="swiper-pagination"></div>--}}
                     </div>
-                    <!-- Add Pagination -->
-{{--                    <div class="swiper-pagination"></div>--}}
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="bg-white pt-5">
+    <section class="bg-white py-5">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col text-center">
@@ -159,7 +147,7 @@
         </div>
     </section>
 
-    <section class="bg-light pt-4 pb-3">
+    <section class="bg-light py-5 pb-3">
         <div class="container">
             <div class="row pb-4">
                 <div class="col">
@@ -168,28 +156,54 @@
                 </div>
             </div>
             <div class="row">
-                @foreach($destino as $destinos)
-                    <div class="col-12 col-md-4">
-                        <div class="card">
-                            <div class="position-relative bx-img-destinohome">
-                                <a href="" class="text-dark d-block">
-                                    <img src="{{$destinos->imagen}}" alt="" class="w-100">
-                                </a>
+                <div class="swiper-destino overflow-hidden">
+                    <div class="swiper-wrapper">
+                        @foreach($destino as $destinos)
+                            <div class="swiper-slide">
+                                <div class="row">
+                                    <div class="col-5">
+                                        <div class="row">
+                                            <div class="col">
+                                                <div class="position-relative bx-img-destinohome">
+                                                    <a href="" class="text-dark d-block">
+                                                        <img src="{{$destinos->imagen}}" alt="" class="w-100">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col">
+                                                <div class="card-body alert-d-yellow position-relative">
+                                                    <p class="d-block font-weight-bold text-lowercase h2 t-corrido">{{$destinos->nombre}}</p>
+                                                    <span class="">Lorem ipsum dolor sit amet, consectetur adipisicing  adipisicing elit. </span>
+                                                    <a href="" class="d-block btn-sm t-small-6 stretched-link text-muted mt-2">EXPLORE</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-7">
+
+                                        <div class="position-relative bx-img-destinohome">
+                                            <a href="" class="text-dark d-block">
+                                                <img src="{{$destinos->imagen}}" alt="" class="w-100">
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
-                            <div class="card-body position-relative text-center">
-                                <p class="d-block h5 font-weight-light t-corrido">{{$destinos->pais}}</p>
-                                <span class="text-uppercase">{{$destinos->nombre}}</span>
-                                <a href="" class="d-block btn-sm t-small-6 stretched-link text-muted mt-2">VER DETALLES</a>
-                            </div>
-                        </div>
+                        @endforeach
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
                     </div>
-                @endforeach
+                </div>
 
             </div>
 
             <div class="row">
                 <div class="col text-center">
-                    <a href="" class="btn btn-info font-weight-bold btn-sm text-uppercase small my-4"><small>Explore todos nuestros destinos en Perú</small></a>
+                    <a href="" class="btn btn-info font-weight-bold btn-sm text-uppercase small mt-5"><small>Explore todos nuestros destinos en Perú</small></a>
                 </div>
             </div>
         </div>
@@ -245,6 +259,88 @@
         </div>
     </section>
 
+    <section class="box-fondohome">
+        <div class="container">
+            <div class="row pb-4">
+                <div class="col text-center">
+                    <h2 class="font-weight-light h3">SOMOS LOCALES APASIONADOS POR LOS VIAJES</h2>
+                    <p class="font-weight-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium cumque dolor dolore enim et, expedita hic incidunt inventore iure libero nisi odio perferendis porro possimus quo sint sit vel voluptatem?</p>
+                </div>
+            </div>
+            <div class="row my-5">
+                <div class="col-6 mb-3 col-sm-4 mb-md-0 col-md-2 text-center">
+                    <i data-feather="users" class="d-block mx-auto" width="45" height="45" stroke-width="1"></i>
+                    <span class="small mt-3 d-block">Grupos pequeños y personalizados.</span>
+                </div>
+                <div class="col-6 mb-3 col-sm-4 mb-md-0 col-md-2 text-center">
+                    <i data-feather="clock" class="d-block mx-auto" width="45" height="45" stroke-width="1"></i>
+                    <span class="small mt-3 d-block">Nosotros vivimos aquí, somos locales 100%.</span>
+                </div>
+                <div class="col-6 mb-3 col-sm-4 mb-md-0 col-md-2 text-center">
+                    <i data-feather="pen-tool" class="d-block mx-auto" width="45" height="45" stroke-width="1"></i>
+                    <span class="small mt-3 d-block">Reserve ahora o Diseña tu Viaje!</span>
+                </div>
+                <div class="col-6 mb-3 col-sm-4 mb-md-0 col-md-2 text-center">
+                    <i data-feather="map-pin" class="d-block mx-auto" width="45" height="45" stroke-width="1"></i>
+                    <span class="small mt-3 d-block">Sin intermediarios, sede en Perú.</span>
+                </div>
+                <div class="col-6 mb-3 col-sm-4 mb-md-0 col-md-2 text-center">
+                    <i data-feather="thumbs-up" class="d-block mx-auto" width="45" height="45" stroke-width="1"></i>
+                    <span class="small mt-3 d-block">Estamos orgullosos de nuestros recomendaciones!</span>
+                </div>
+                <div class="col-6 mb-3 col-sm-4 mb-md-0 col-md-2 text-center">
+                    <i data-feather="calendar" class="d-block mx-auto" width="45" height="45" stroke-width="1"></i>
+                    <span class="small mt-3 d-block">Nos adaptamos a cualquier hora de llegada.</span>
+                </div>
+            </div>
+
+            <div class="row mt-5 pb-5">
+                <div class="col">
+                    <h3 class="my-4">POR QUE VIAJAR <span class="d-block mt-2">CON <mark>DESTINO</mark></span></h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias cum cupiditate ex labore numquam perspiciatis provident quis, repudiandae sapiente sequi sint, suscipit voluptatibus. Alias dignissimos fugiat id maiores quod saepe?</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur consequatur error esse laborum maiores molestias nesciunt, nisi odio pariatur praesentium, quaerat quidem quos ratione saepe sapiente, tempore unde veniam vitae!</p>
+                    <div class="row justify-content-center">
+                        <div class="col-auto">
+                            <a href=""><i data-feather="facebook" class="text-primary" stroke-width="2"></i></a>
+                        </div>
+                        <div class="col-auto">
+                            <a href=""><i data-feather="twitter" class="text-info" stroke-width="2"></i></a>
+                        </div>
+                        <div class="col-auto">
+                            <a href=""><i data-feather="instagram" class="text-dark" stroke-width="2"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-secondary py-4">
+        <div class="container">
+
+            <div class="row justify-content-center">
+                <div class="col-5">
+                    <div class="row align-items-center">
+                        <div class="col-12">
+                            <h5 class="text-white t-corrido">Parte del grupo:</h5>
+                        </div>
+                        <div class="col">
+                            <img src="https://www.mietnia.com/images/etnias-peru.png" alt="" class="w-100 p-3">
+                        </div>
+                        <div class="col">
+                            <img src="{{asset('images/logo-destino.png')}}" alt="" class="w-100 p-3">
+                        </div>
+{{--                        <div class="col">--}}
+{{--                            <img src="https://www.incasperutours.travel/images/logo-yovana.png" alt="" class="w-100">--}}
+{{--                        </div>--}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     {{--    <section>--}}
     {{--        <div class="container">--}}
     {{--            <div class="row">--}}
@@ -278,6 +374,14 @@
         });
 
         var swiper = new Swiper('.swiper-container', {
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+
+        var swiper = new Swiper('.swiper-destino', {
+
             navigation: {
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
